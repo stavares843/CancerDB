@@ -1,0 +1,8 @@
+import header.scroll
+title Lists
+
+pipeTable
+ List|ListLink
+ Common Cancer types|./commonCancerTypes.html
+
+import ../footer.scroll
